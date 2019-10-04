@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiPrimeraApp</string>
+    <string name="boton_version">VER VERSIÓN</string>
+    <string name="Letras">LetrasCadena</string>
+</resources>
